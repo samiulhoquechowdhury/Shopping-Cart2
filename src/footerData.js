@@ -31,5 +31,5 @@ const footerData = {
         "American Express",
         "PayPal"
     ],
-    copyright: "© 2024 [Your Clothing Store Name]. All Rights Reserved."
+    copyright: "© 2024 Clothing Store. All Rights Reserved."
 };
